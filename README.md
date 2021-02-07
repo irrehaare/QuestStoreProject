@@ -3,6 +3,14 @@
 ## General info
 Full-stack web application, where Codecool students can exchange coolcoins for different activities or events that enhance the education experience. It has been developed for three months of 3rd module of Codecool Full-Stack developer course. In parallel we were also occasionally doing individual educational side-projects.
 
+If you want to see it for yourself, example user logins are:
+* Admin: nori
+* Mentor: domi
+* Student: nodi
+
+Their password in each case is "1". Note, that this would be impossible in normal enviroment, as passwords must obey length and complexicity rules.
+Feel free to contact me, if you wish to run it locally and have any kind of issues with that!
+
 ## Team
 Application was developed in a team of three:
 * [Michał](https://github.com/mbart13)
